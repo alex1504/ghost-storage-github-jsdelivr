@@ -1,6 +1,6 @@
 {
   "name": "ghost-storage-github-jsdelivr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Ghost adapter for upload to github and get accelerated link.",
   "main": "index.js",
   "scripts": {
