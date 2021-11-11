@@ -1,0 +1,30 @@
+{
+  "name": "ghost-storage-github-jsdelivr",
+  "version": "1.0.0",
+  "description": "Ghost adapter for upload to github and get accelerated link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex1504/ghost-storage-github-jsdelivr.git"
+  },
+  "keywords": [
+    "ghost",
+    "github",
+    "upload",
+    "cdn",
+    "jsdelivr"
+  ],
+  "author": "alex1504",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex1504/ghost-storage-github-jsdelivr/issues"
+  },
+  "homepage": "https://github.com/alex1504/ghost-storage-github-jsdelivr#readme",
+  "dependencies": {
+    "ghost-storage-base": "^1.0.0",
+    "github-image-uploader": "^1.1.3"
+  }
+}
