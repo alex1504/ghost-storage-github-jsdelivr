@@ -3,6 +3,7 @@ Ghost adapter for upload to github and get accelerated link.
 # Adapter Usage
 
 ```sh
+npm i ghost-storage-github-jsdelivr
 mkdir -p content/adapters/storage/ghost-storage-github-jsdelivr
 cp node_modules/ghost-storage-github-jsdelivr/index.js content/adapters/storage/ghost-storage-github-jsdelivr/index.js
 ```
